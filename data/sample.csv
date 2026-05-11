@@ -1,0 +1,5 @@
+environment,component,type,connects_to
+DEV,universal-pod,application,postgresql,kafka
+DEV,postgresql,database,
+DEV,kafka,messaging,
+DEV,elasticsearch,search,
